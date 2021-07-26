@@ -53,7 +53,7 @@
         "start": "yarn run develop",
         "serve": "gatsby serve",
         "clean": "gatsby clean",
-        "deploy": "gatsby build && gh-pages -d public -b main",
+        "deploy": "gatsby build && gh-pages -d public -r git@github.com:next-gen-dev/next-gen-dev.github.io.git -b main",
         "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
     }
 }
