@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "8151fcf6e52dc89c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5f9faedfcd2b8b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog/dev-scenarios/index.md",
+            "mode": "source"
+          }
+        },
+        "group": "665585ce37627ea2"
+      },
+      {
+        "id": "2ccc12057841c28d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "blog/dev-scenarios/index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "665585ce37627ea2"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1971c2c31561554",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae78d567896d16da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f31e95e8d3ea090",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "959c2ad5870f235f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "19dbc3b925789382",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2dfc09463ee01d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08ab74265c97a234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/dev-scenarios/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5f9faedfcd2b8b5",
+  "lastOpenFiles": [
+    "blog/dev-scenarios/index.md"
+  ]
+}

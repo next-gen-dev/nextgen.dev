@@ -28,7 +28,11 @@ const Seo = ({ description, lang, meta, title }) => {
     )
 
     const metaDescription = description || site.siteMetadata.description
-    const defaultTitle = site.siteMetadata?.title
+    let defaultTitle = site.siteMetadata?.title
+    if (!title) {
+        title = defaultTitle
+        defaultTitle = null
+    }
 
     return (
         <Helmet
